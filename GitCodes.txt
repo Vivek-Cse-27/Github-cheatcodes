@@ -3,5 +3,29 @@ Clone- Cloning a repositoy on our local machine(laptop) from remote loaction(Git
 git clone <-HTTPS Repository link->
 Status- Displays the state of the code
 git status 
-U- Untracked files
-A- Added/Stagged files
+U- Untracked files new files that git doesn't yet track
+A- Added/Stagged files file is ready to be committed
+M- Modified file Changed files
+Some cmd codes
+cd Change directory 
+dir list Directories (ls)
+dir /a:h for hidden files (ls -a)
+mkdir to make directory
+
+Adding file
+ 
+git add <-file name-> (.) for all file
+
+Removing a file
+
+git rm -cached <-file name->
+
+Commiting file 
+
+git commit -m "Message"
+
+Pushing a file from local to remote
+
+git push origin(repo) main(branch-name)
+git push -u origin main -u to set as default
+

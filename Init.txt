@@ -1,0 +1,5 @@
+Init command
+
+git init 
+
+git init add origin <-link->
