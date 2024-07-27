@@ -1,0 +1,13 @@
+Git is a version control system. It is a tool that helps to track changes in code.
+Reasons why we use Git:
+Git is popular,free & open source ,fast & scalable.
+Majorly used for two purpose:
+To track record 
+To collaborate with fellow colleagues
+Github is a website that allows developers to store and manage their code using git.
+Github is a website whereas Git is a tool.
+In Github we upload our folders in the form of repositories.
+md stads for Mark Down file (README.md)
+commit is the number of times changes made.
+Changes in Github is in two phase first adding also called stagging and secnd commiting
+.git files stores commits made as well as commit message

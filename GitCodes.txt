@@ -1,0 +1,7 @@
+Clone & Status
+Clone- Cloning a repositoy on our local machine(laptop) from remote loaction(Github)
+git clone <-HTTPS Repository link->
+Status- Displays the state of the code
+git status 
+U- Untracked files
+A- Added/Stagged files

@@ -1,0 +1,8 @@
+Configuring Git
+
+git config --global user.name "My name"
+git config --global user.email "mail address"
+
+View Configured list
+
+git config --list
