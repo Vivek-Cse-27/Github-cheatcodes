@@ -1,0 +1,6 @@
+A fork is a new repository that shares code and visiblity settings with the original "upstream" repository.
+
+Fork is a rough copy.
+ 
+We can create copy of master branch only or all the branches existing.
+To merge our content with original content which we copied we can create a pull request.

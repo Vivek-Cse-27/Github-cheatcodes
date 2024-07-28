@@ -1,0 +1,7 @@
+# Local Git Work Flow
+Create Github Repository
+Clone in local Machine
+Changes
+add
+commit
+push in to remote location

@@ -1,0 +1,19 @@
+# Undoing Changes
+
+# case 1: staged changes (added and not committed)
+
+git reset <-file name->
+git reset (multiple files)
+
+# case 2: committed changes (for one commit)
+
+git reset HEAD~1 (reverse 1 commit)
+latest commit is by-default HEAD
+git log (to check commits made)
+q to quit
+
+# case 3: committed changes (for many commit)
+
+git reset <-commit hash-> (it shows changes made after this commit)
+git reset --hard <-commit hash-> (it deletes all changes made after this commit in vs code)
+hash is a specific code for each commit.

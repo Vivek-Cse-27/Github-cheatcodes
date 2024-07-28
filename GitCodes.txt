@@ -27,5 +27,6 @@ git commit -m "Message"
 Pushing a file from local to remote
 
 git push origin(repo) main(branch-name)
-git push -u origin main -u to set as default
+git push -u origin main -u to set upstream after this if we use git push the operation will be performed on origin main
+
 

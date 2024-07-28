@@ -1,1 +1,14 @@
 Branches can be many 
+When multiple developers works on single project they work on separate branches and when they are done with their task they merge their work with main branch.
+
+# Branch Commands
+
+git branch (to check branch)
+
+git branch -M main (to rename branch)
+
+git checkout <-branch name-> (to navigate to different branch)
+
+git checkout -b <-new branch name-> (to create as well as navigate to new branch)
+git branch -d <-branch name-> (to delete branch)
+We cannot delete the branch in which we are currently working

@@ -11,3 +11,5 @@ md stads for Mark Down file (README.md)
 commit is the number of times changes made.
 Changes in Github is in two phase first adding also called stagging and secnd commiting
 .git files stores commits made as well as commit message
+A Repository can have multiple branches.
+Master branch was earlier default branch and now main branch is default branch.
