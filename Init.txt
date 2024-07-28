@@ -2,4 +2,12 @@ Init command
 
 git init 
 
-git init add origin <-link->
+git remote add origin <-link-> (git remote add/github repo)
+if origin is altered with other word alter word is used
+
+git remote -v (to verify remote)
+
+git branch (to check branch)
+
+git branch -M main (to rename branch as main)
+
